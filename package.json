@@ -1,0 +1,22 @@
+{
+  "name": "doc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wallapatta/documentation.git"
+  },
+  "author": "Varuna Jayasiri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wallapatta/documentation/issues"
+  },
+  "homepage": "https://github.com/wallapatta/documentation#readme",
+  "dependencies": {
+    "weya": "^0.1.1"
+  }
+}
