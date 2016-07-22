@@ -15,15 +15,15 @@ inspired by handouts of **Edward R. Tufte**^^1^^.
  >>>
   **<<reference.html(Wallapatta syntax reference)>>
 
-  **<<https://chrome.google.com/webstore/detail/wallapatta/nleponjjojkllonfamfjhebhadibjlip(Chrome App>>
+  **<<https://www.forestpin.com/downloads/wallapatta/download/win32(Windows App>>
 
-  **<<http://vpj.github.io/wallapatta/chrome.html(Chrome App Documentation)>>
+  **<<http://vpj.github.io/wallapatta/chrome.html(App Documentation)>>
 
 Wallapatta has a several improvements over **Markdown**.
 
  * Focus on printing <<http://vpj.github.io/page_breaks.html(Optimal Page Breaks>>
  * Sidenotes for Edward R. Tufte style documents
- * Free open source editor <<https://chrome.google.com/webstore/detail/wallapatta/nleponjjojkllonfamfjhebhadibjlip(Chrome App>>
+ * Free open source editor <<https://www.forestpin.com/downloads/wallapatta/download/win32(Windows App>>
  * Compile books or <<http://vpj.github.io/wallapatta.html(blogs)>>
  * Better image support
  * Indentation based (for --code folding-- etc)
@@ -34,10 +34,10 @@ Wallapatta has a several improvements over **Markdown**.
 
 ##Get Started
 
- ###Chrome app
-  Download the <<https://chrome.google.com/webstore/detail/wallapatta/nleponjjojkllonfamfjhebhadibjlip(Chrome App)>> to write documents in wallapatta. It also lets you create printable documents (with smart page breaks).
+ ###Windows app
+  Download the <<https://www.forestpin.com/downloads/wallapatta/download/win32(Windows App)>> to write documents in wallapatta. It also lets you create printable documents (with smart page breaks).
 
-  Here's the <<http://vpj.github.io/wallapatta/chrome.html(Chrome App Documentation)>>.
+  Here's the <<http://vpj.github.io/wallapatta/chrome.html(App Documentation)>>.
 
  ###Compile a book, blog or a page
 
