@@ -13,11 +13,13 @@ inspired by handouts of **Edward R. Tufte**^^1^^.
 !https://lh4.googleusercontent.com/VlvlvGkRGB5NM18EciNd9CmuXBjMXS4_L5NX28DxDOB0r2PUuUyfrDiCF9_4urXmjonnSR99hA=s640-h400-e365-rw
 
  >>>
-  **<<reference.html(Wallapatta syntax reference)>>
-
   **<<https://www.forestpin.com/downloads/wallapatta/download/win32(Windows App>>
 
-  **<<http://vpj.github.io/wallapatta/chrome.html(App Documentation)>>
+  **<<https://www.forestpin.com/downloads/wallapatta/download/darwin(Mac OS X App>>
+
+  **<<reference.html(Wallapatta syntax reference)>>
+
+  **<<http://vpj.github.io/wallapatta/editor.html(Editor Documentation)>>
 
 Wallapatta has a several improvements over **Markdown**.
 
@@ -35,9 +37,11 @@ Wallapatta has a several improvements over **Markdown**.
 ##Get Started
 
  ###Windows app
-  Download the <<https://www.forestpin.com/downloads/wallapatta/download/win32(Windows App)>> to write documents in wallapatta. It also lets you create printable documents (with smart page breaks).
+  Download the <<https://www.forestpin.com/downloads/wallapatta/download/win32(Windows App)>>
+  or the <<https://www.forestpin.com/downloads/wallapatta/download/darwin(Mac OS X App)>>
+  to write documents in wallapatta. It also lets you create printable documents (with smart page breaks).
 
-  Here's the <<http://vpj.github.io/wallapatta/chrome.html(App Documentation)>>.
+  Here's the <<http://vpj.github.io/wallapatta/editor.html(Editor Documentation)>>.
 
  ###Compile a book, blog or a page
 
