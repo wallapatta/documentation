@@ -19,7 +19,7 @@ inspired by handouts of **Edward R. Tufte**^^1^^.
 
   **<<reference.html(Wallapatta syntax reference)>>
 
-  **<<http://vpj.github.io/wallapatta/editor.html(Editor Documentation)>>
+  **<<http://wallapatta.github.io/editor.html(Editor Documentation)>>
 
 Wallapatta has a several improvements over **Markdown**.
 
@@ -41,7 +41,7 @@ Wallapatta has a several improvements over **Markdown**.
   or the <<https://www.forestpin.com/downloads/wallapatta/download/darwin(Mac OS X App)>>
   to write documents in wallapatta. It also lets you create printable documents (with smart page breaks).
 
-  Here's the <<http://vpj.github.io/wallapatta/editor.html(Editor Documentation)>>.
+  Here's the <<http://wallapatta.github.io/editor.html(Editor Documentation)>>.
 
  ###Compile a book, blog or a page
 
