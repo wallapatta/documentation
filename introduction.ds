@@ -1,3 +1,7 @@
+<!>
+ !assets/screenshot.png()
+
+
 Wallapatta is like
 <<http://en.wikipedia.org/wiki/Markdown(Markdown)>>, but has a layout
 inspired by handouts of **Edward R. Tufte**^^1^^.
@@ -10,7 +14,7 @@ inspired by handouts of **Edward R. Tufte**^^1^^.
    <iframe src="https://ghbtns.com/github-btn.html?user=vpj&repo=wallapatta&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"
    </iframe>
 
-!https://lh4.googleusercontent.com/VlvlvGkRGB5NM18EciNd9CmuXBjMXS4_L5NX28DxDOB0r2PUuUyfrDiCF9_4urXmjonnSR99hA=s640-h400-e365-rw
+Wallapatta has a several improvements over **Markdown**.
 
  >>>
   **<<https://www.forestpin.com/downloads/wallapatta/download/win32(Windows App>>
@@ -21,7 +25,6 @@ inspired by handouts of **Edward R. Tufte**^^1^^.
 
   **<<http://wallapatta.github.io/editor.html(Editor Documentation)>>
 
-Wallapatta has a several improvements over **Markdown**.
 
  * Focus on printing <<http://vpj.github.io/page_breaks.html(Optimal Page Breaks>>
  * Sidenotes for Edward R. Tufte style documents
